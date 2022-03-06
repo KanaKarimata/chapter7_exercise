@@ -19,21 +19,17 @@
 }
 
 main {
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  width: 840px;
+  margin: 50px auto;
 }
 
 .main-content1 {
-  width: 840px;
   padding-bottom: 30px;
   border-bottom: 1px solid #c0c0c0;
 }
 
 .main-content2 {
-  width: 840px;
+  padding-top: 30px;
   padding-bottom: 30px;
   border-bottom: 1px solid #c0c0c0;
 }
